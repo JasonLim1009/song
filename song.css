@@ -19,6 +19,7 @@ body{
     align-items: center;
     justify-content: center;
     background: linear-gradient(to right, #5D6D7E, #566573);
+    border-radius: 10px;
 }
 .main button{
     padding: 10px 12px;
@@ -29,7 +30,7 @@ body{
     top: 10px;
     left: 30px;
     font-size: 25px;
-    color: #ccc;
+    color: rgb(234, 237, 37);
     text-transform: capitalize;
 }
 .main #logo i{

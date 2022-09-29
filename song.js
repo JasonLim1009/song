@@ -24,7 +24,7 @@ let All_song = [
     {
         name:"First song",
         path:"music/song1.mp3",
-        img:"http://pic.5tu.cn/uploads/allimg/1905/pic_5tu_big_2019050601001168045.jpg",
+        img:"music/j1.jpg",
         singer:"First singer"
     },
     {
